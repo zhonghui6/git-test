@@ -806,6 +806,3 @@ index_VR_MQB2B_ETH
 
 <result xmlns="http://openconfig.net/yang/system">OK</result>
 
-
-
-qweqwe
